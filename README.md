@@ -1,3 +1,3 @@
 # email-spam-classifier-new
 End to end code for the email spam classifier project
-dataset : https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0RVc29mX0l2eDVoNHJ5N25XTmxMWWhWcTJWQXxBQ3Jtc0tuRVB6MzI0VmJVY3B6OFF6ME9JWS1zYW1yekFOcnZ0Zm54clF0T05DUVFZSENScXlxTnZDc1VqXzJfOXY2ZXVjVFNJNXByNFF1MnRhRWxaWXdyUk9BeC1MODJILXlqRHd6Tk5YY2RPX3NUd1B1QjVybw&q=https%3A%2F%2Fwww.kaggle.com%2Fuciml%2Fsms-spam-collection-dataset&v=YncZ0WwxyzU
+dataset : https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
